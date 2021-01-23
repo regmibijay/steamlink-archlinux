@@ -1,0 +1,27 @@
+# Aliases extracted from modules themselves.
+alias crypto-echainiv echainiv
+alias echainiv echainiv
+alias platform:pxa3xx-nand marvell_nand
+alias of:N*T*Cmarvell,pxa3xx-nandC* marvell_nand
+alias of:N*T*Cmarvell,pxa3xx-nand marvell_nand
+alias of:N*T*Cmarvell,armada370-nandC* marvell_nand
+alias of:N*T*Cmarvell,armada370-nand marvell_nand
+alias of:N*T*Cmarvell,armada-8k-nandC* marvell_nand
+alias of:N*T*Cmarvell,armada-8k-nand marvell_nand
+alias of:N*T*Cmarvell,pxa3xx-nand-controllerC* marvell_nand
+alias of:N*T*Cmarvell,pxa3xx-nand-controller marvell_nand
+alias of:N*T*Cmarvell,armada370-nand-controllerC* marvell_nand
+alias of:N*T*Cmarvell,armada370-nand-controller marvell_nand
+alias of:N*T*Cmarvell,armada-8k-nand-controllerC* marvell_nand
+alias of:N*T*Cmarvell,armada-8k-nand-controller marvell_nand
+alias sdio:c*v02DFd9141* mwifiex_sdio
+alias sdio:c*v02DFd9149* mwifiex_sdio
+alias sdio:c*v02DFd9145* mwifiex_sdio
+alias sdio:c*v02DFd9139* mwifiex_sdio
+alias sdio:c*v02DFd9135* mwifiex_sdio
+alias sdio:c*v02DFd912D* mwifiex_sdio
+alias sdio:c*v02DFd9129* mwifiex_sdio
+alias sdio:c*v02DFd9119* mwifiex_sdio
+alias sdio:c*v02DFd9116* mwifiex_sdio
+alias of:N*T*Cmarvell,berlin2-adcC* berlin2_adc
+alias of:N*T*Cmarvell,berlin2-adc berlin2_adc

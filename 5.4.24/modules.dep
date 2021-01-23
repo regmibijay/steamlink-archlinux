@@ -1,0 +1,11 @@
+kernel/crypto/echainiv.ko:
+kernel/drivers/mtd/nand/raw/nand.ko: kernel/drivers/mtd/nand/raw/nand_ecc.ko kernel/drivers/mtd/nand/nandcore.ko
+kernel/drivers/mtd/nand/raw/nand_ecc.ko:
+kernel/drivers/mtd/nand/raw/marvell_nand.ko: kernel/drivers/mtd/nand/raw/nand.ko kernel/drivers/mtd/nand/raw/nand_ecc.ko kernel/drivers/mtd/nand/nandcore.ko
+kernel/drivers/mtd/nand/nandcore.ko:
+kernel/drivers/net/wireless/marvell/mwifiex/mwifiex.ko:
+kernel/drivers/net/wireless/marvell/mwifiex/mwifiex_sdio.ko: kernel/drivers/net/wireless/marvell/mwifiex/mwifiex.ko
+kernel/drivers/i2c/i2c-core.ko:
+kernel/drivers/iio/adc/berlin2-adc.ko: kernel/drivers/iio/industrialio.ko
+kernel/drivers/iio/industrialio.ko:
+kernel/net/mac80211/mac80211.ko:
