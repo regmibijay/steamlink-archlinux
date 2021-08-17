@@ -38,7 +38,7 @@ echo [11/11] "Finally creating ssh folder"
 sudo mkdir -p /media/disk/steamlink/config/system/
 sudo echo "True" > /media/disk/steamlink/config/system/enable_ssh.txt
 echo "Completed, unmounting disk. This may take a while."
-sudo umount $devaddress
+sudo umount -l $devaddress
 echo "Cleaning up ... "
 sudo rm -rf /media/disk
 echo  "Completed. Please remove the USB disk and place it on steamlink."
