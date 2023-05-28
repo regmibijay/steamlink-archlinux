@@ -41,5 +41,5 @@ echo "Completed, unmounting disk. This may take a while."
 sudo umount -l $devaddress
 echo "Cleaning up ... "
 sudo rm -rf /media/disk
-echo  "Completed. Please remove the USB disk and place it on steamlink."
+echo  "Completed. Please remove the USB disk and insert it into steamlink."
 

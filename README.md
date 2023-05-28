@@ -1,11 +1,10 @@
 # steamlink-archlinux
 Create Archlinux boot medium for steamlink with one script!
-Archlinux with linux 5.4.24
+Archlinux with linux 5.4.24 (Kernel can be updated inside arch once you flash it.)
 
 ## Steps
 
-1. Run `boot_device_creator.sh` from bash(terminal) 
-2. Create `steamlink/config/system/enable_ssh.txt` and write `true` in the .txt file for enabling ssh.
+Run `boot_device_creator.sh` from bash (terminal) 
 
 Be careful while specifying device addresses as the script WILL wipe all of data of that device. Any data lost or any harm done is your own responsibility.
 
